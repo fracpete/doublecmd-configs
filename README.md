@@ -14,7 +14,7 @@ Uses *gvim* as editor and *kdiff3* as diff tool.
 
 
 ## Windows
-The [configuration file](windows/doublecmd.xml) (most likely) located in:
+The [configuration file](windows/doublecmd.xml) is (most likely) located in:
 
 ```
 %USERPROFILE%\AppData\Roaming\doublecmd
